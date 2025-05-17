@@ -2,4 +2,6 @@
 Learning basic commands from Git
 Dependencies
 Python v3.13
-pip gay
+pip install gay
+pip install nigger
+pip install bi
